@@ -1,2 +1,2 @@
-# AI_Showcase
-Website to showcase four Python based AI programs.
+# AI Showcase
+Website to showcase four Python-based AI programs.
